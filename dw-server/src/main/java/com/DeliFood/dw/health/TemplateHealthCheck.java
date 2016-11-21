@@ -2,9 +2,6 @@ package com.DeliFood.dw.health;
 
 import com.yammer.metrics.core.HealthCheck;
 
-/**
- * Created by Piseth on 11/20/16.
- */
 public class TemplateHealthCheck extends HealthCheck {
     private final String template;
 

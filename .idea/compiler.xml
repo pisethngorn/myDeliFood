@@ -29,7 +29,7 @@
     <bytecodeTargetLevel>
       <module name="angularjs-webapp" target="1.5" />
       <module name="DeliFood" target="1.5" />
-      <module name="dw-server" target="1.5" />
+      <module name="dw-server" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

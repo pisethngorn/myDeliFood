@@ -8,10 +8,6 @@ import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import java.util.concurrent.atomic.AtomicLong;
 
-/**
- * Created by Piseth on 11/20/16.
- */
-
 @Path("hello")
 @Produces(MediaType.APPLICATION_JSON)
 public class HelloWorldResource {
