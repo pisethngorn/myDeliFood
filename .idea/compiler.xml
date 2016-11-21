@@ -27,7 +27,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="angularjs-webapp" target="1.5" />
+      <module name="angularjs-webapp" target="1.8.0_112-release" />
       <module name="DeliFood" target="1.5" />
       <module name="dw-server" target="1.6" />
     </bytecodeTargetLevel>
